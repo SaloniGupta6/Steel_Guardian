@@ -87,10 +87,12 @@ router.post('/register', async (req, res) => {
 // @access  Public
 router.post('/login', async (req, res) => {
   try {
-    const { email, password } = req.body;
+    const { employeeId, email, password } = req.body;
 
-    // Find user by email
-    const user = await User.findOne({ email });
+    // Find user by employeeId or email
+    const user = await User.findOne({
+      $or: [{ employeeId }, { email }]
+    });
 
     if (!user || !user.isActive) {
       return res.status(401).json({

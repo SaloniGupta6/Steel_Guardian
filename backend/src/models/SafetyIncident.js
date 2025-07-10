@@ -9,7 +9,7 @@ const safetyIncidentSchema = new mongoose.Schema({
   incidentId: {
     type: String,
     unique: true,
-    required: true
+    sparse: true
   },
   title: {
     type: String,
@@ -129,8 +129,8 @@ const safetyIncidentSchema = new mongoose.Schema({
 });
 
 // Generate incident ID
-safetyIncidentSchema.pre('save', function(next) {
-  if (this.isNew) {
+safetyIncidentSchema.pre('validate', function(next) {
+  if (this.isNew && !this.incidentId) {
     const now = new Date();
     const year = now.getFullYear();
     const month = String(now.getMonth() + 1).padStart(2, '0');
