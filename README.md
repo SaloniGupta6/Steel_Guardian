@@ -126,12 +126,6 @@ Contributions are welcome! Please open issues or pull requests for improvements,
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ## Contact
 
 For more information, reach out to the maintainer through the [GitHub repository](https://github.com/SaloniGupta6/Steel_Guardian).
