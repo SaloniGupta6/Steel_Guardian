@@ -1,6 +1,6 @@
 # Steel Guardian
 
-Steel Guardian is an integrated industrial platform designed to enhance operational efficiency, sustainability, safety, and compliance within steel manufacturing environments. Developed with a focus on TATA Steel's large-scale operations, Steel Guardian leverages advanced analytics, IoT, and automation to transform industrial workflows, environmental management, and resource optimization.
+Steel Guardian is an integrated industrial platform designed to enhance operational efficiency, sustainability, safety, and compliance within steel manufacturing environments. Developed with a focus on modern manufacturing challenges, it leverages advanced analytics, IoT, and automation to deliver end-to-end visibility and control.
 
 ---
 
@@ -67,6 +67,21 @@ Steel Guardian is an integrated industrial platform designed to enhance operatio
 ## Achitecture Diagram
 
 <img width="412" height="449" alt="Screenshot 2025-07-10 at 17 38 37" src="https://github.com/user-attachments/assets/fbe77f43-4316-4995-a984-27594bd18566" />
+
+---
+
+## App Screenshots
+
+### Predictive Maintenance
+![Predictive Maintenance - Monitor machine health and schedule maintenance](attachment:image1)
+
+### Environmental Dashboard
+![Environmental Dashboard - Monitor CO₂ emissions, energy usage, and sustainability metrics](attachment:image2)
+
+### Material Tracking
+![Material Tracking - Real-time material flow monitoring and GPS tracking](attachment:image3)
+
+---
 
 ## Getting Started
 
