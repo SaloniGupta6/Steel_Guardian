@@ -72,14 +72,14 @@ Steel Guardian is an integrated industrial platform designed to enhance operatio
 
 ## App Screenshots
 
-### Predictive Maintenance
-![Predictive Maintenance - Monitor machine health and schedule maintenance](attachment:image1)
 
-### Environmental Dashboard
-![Environmental Dashboard - Monitor CO₂ emissions, energy usage, and sustainability metrics](attachment:image2)
-
-### Material Tracking
-![Material Tracking - Real-time material flow monitoring and GPS tracking](attachment:image3)
+![WhatsApp Image 2025-07-11 at 12 34 47 (1)](https://github.com/user-attachments/assets/09d011f0-4c9e-415f-ae64-ca09e26ef2c5)
+![WhatsApp Image 2025-07-11 at 12 34 47](https://github.com/user-attachments/assets/d32fff19-58ba-47ee-a66d-5736c52794ff)
+![WhatsApp Image 2025-07-11 at 12 34 48 (1)](https://github.com/user-attachments/assets/f3b6dfc8-12fe-4a12-8a1f-3882e524d042)
+![WhatsApp Image 2025-07-11 at 12 34 48](https://github.com/user-attachments/assets/bbbfa959-fcb5-4f71-ac89-3c49433fd370)
+![WhatsApp Image 2025-07-11 at 12 34 49 (1)](https://github.com/user-attachments/assets/be2216c0-8925-4ad7-854e-a328c71a906a)
+![WhatsApp Image 2025-07-11 at 12 34 49 (2)](https://github.com/user-attachments/assets/512693c1-5d0e-4963-8dde-b4365e2657c0)
+![WhatsApp Image 2025-07-11 at 12 34 49](https://github.com/user-attachments/assets/5bfed270-1d54-4754-bc2d-99c00a2fc8dd)
 
 ---
 
