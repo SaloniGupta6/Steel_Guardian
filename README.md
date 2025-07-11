@@ -72,9 +72,6 @@ Steel Guardian is an integrated industrial platform designed to enhance operatio
 
 ## App Screenshots
 
-
-## App Screenshots
-
 <img src="https://github.com/user-attachments/assets/09d011f0-4c9e-415f-ae64-ca09e26ef2c5" width="300" />
 <img src="https://github.com/user-attachments/assets/d32fff19-58ba-47ee-a66d-5736c52794ff" width="300" />
 <img src="https://github.com/user-attachments/assets/f3b6dfc8-12fe-4a12-8a1f-3882e524d042" width="300" />
