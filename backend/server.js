@@ -55,8 +55,12 @@ app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 
 // Database connection
+<<<<<<< HEAD
 mongoose.connect(process.env.DB_URL, {
 
+=======
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/steelguardian', {
+>>>>>>> 3b8a5d264803aa655bd5e0a3fa4a51a303b54d02
   useNewUrlParser: true,
   useUnifiedTopology: true,
 })
